@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Anand Sen 👋
+🚀 Aspiring DevOps Engineer  
+🎓 MCA Student at Manipal University Jaipur  
+---
+## About Me
+I am currently learning **DevOps, Cloud, and Automation**.  
+I enjoy building practical projects and improving my skills in Linux, Git, and cloud technologies.
+Currently working on:
 
-<!--
-**Devel955/Devel955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• **90 Days of DevOps Challenge**  
+• DevOps tools and automation projects  
+• Learning CI/CD, Docker, and Cloud platforms
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+
+- Linux
+- Git & GitHub
+- Shell Scripting
+- Docker
+- Jenkins
+- CI/CD
+- AWS (Learning)
+- Azure (Learning)
+---
+## Featured Projects
+
+🔹 DevOps Git Practice  
+https://github.com/Devel955/devops-git-practice
+
+🔹 Shell Scripts Automation  
+(Add your repo here)
+---
+## Connect With Me
+
+LinkedIn: (add your LinkedIn link)
+---
+⭐ Always learning and building in public.
+
