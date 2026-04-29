@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anand Sen 👋</h1>
 
-<h3 align="center">🚀 Fresher | Aspiring DevOps Engineer</h3>
+<h3 align="center">🚀 Fresher |  DevOps Engineer</h3>
 
 <p align="center">
   <em>"Learning in public, growing every day — one commit at a time!"</em>
