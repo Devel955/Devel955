@@ -1,153 +1,89 @@
-<h1 align="center">Hi 👋, I'm Anand Sen</h1>
+<div align="center">
 
-<p align="center">
-🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
-</p>
+# Anand Sen
+### DevOps Engineer | Cloud Infrastructure | Automation
 
-<p align="center">
-I design, automate, and deploy scalable cloud-native systems with a strong focus on reliability, performance, and production readiness.
-</p>
+I build reliable, automated, and scalable infrastructure — from CI/CD pipelines to production-grade Kubernetes deployments.
 
-<p align="center">
-<a href="https://linkedin.com/in/anand-sen-3703b8238">LinkedIn</a> • 
-<a href="mailto:senanand164@gmail.com">Email</a> • 
-<a href="https://github.com/Devel955">GitHub</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-sen-3703b8238)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:senanand164@gmail.com)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## Summary
 
-I am a DevOps-focused engineer who believes in **learning by building real systems**.
-
-My work focuses on designing **end-to-end DevOps pipelines**, automating infrastructure, and deploying applications using modern cloud-native tools.
+DevOps Engineer with hands-on experience designing end-to-end deployment pipelines and provisioning cloud infrastructure using Infrastructure-as-Code practices. Comfortable working across the full delivery lifecycle — from containerizing applications to automating deployments and monitoring production systems on AWS.
 
 ---
 
-## 📈 DevOps Impact
+## Experience Highlights
 
-- 🚀 Deployed **3+ production-style applications** on AWS & Kubernetes  
-- ⚙️ Built CI/CD pipelines reducing manual deployment effort  
-- 🐳 Containerized applications using Docker  
-- ☸️ Managed Kubernetes deployments and real-world debugging  
-- 🏗️ Automated infrastructure provisioning using Terraform  
+| Area | What I've Done |
+|---|---|
+| **Cloud Infrastructure** | Deployed and managed 3+ production-style applications on AWS (EC2, ECS, VPC, IAM) |
+| **CI/CD** | Built automated pipelines with GitHub Actions and Jenkins, cutting manual deployment effort significantly |
+| **Containerization** | Containerized applications with Docker and orchestrated deployments using Kubernetes and Helm |
+| **Infrastructure as Code** | Wrote reusable, modular Terraform configurations to provision and manage AWS infrastructure |
+| **Monitoring & Observability** | Set up Prometheus and Grafana for infrastructure and application-level monitoring |
 
 ---
 
-## ⚡ Tech Stack
+## Technical Skills
 
-### 🖥️ Core
-`Linux` `Bash` `Git` `Networking`
+**Cloud & Infrastructure**
+`AWS (EC2, ECS, VPC, IAM, Security Groups)` `Terraform` `Linux` `Networking`
 
-### 🐳 Containers & Orchestration
+**Containers & Orchestration**
 `Docker` `Kubernetes` `Helm`
 
-### ☁️ Cloud
-`AWS (EC2, ECS, VPC, IAM, Security Groups)`
+**CI/CD & Automation**
+`GitHub Actions` `Jenkins` `Bash`
 
-### 🔄 CI/CD
-`GitHub Actions` `Jenkins`
-
-### 🏗️ Infrastructure as Code
-`Terraform (Modules • State • Variables • AWS Infra)`
-
-### 📊 Monitoring
+**Monitoring**
 `Prometheus` `Grafana`
 
----
-
-## 🏗️ Terraform Expertise
-
-- Provisioned AWS infrastructure using Terraform  
-- Built reusable and modular Terraform configurations  
-- Managed state, variables, and dependencies  
-- Automated infrastructure deployments end-to-end  
+**Version Control**
+`Git` `GitHub`
 
 ---
 
-## 🚧 What I'm Currently Working On
+## Featured Projects
 
-### 🔹 AI-BankApp DevOps (Flagship Project)
-- Designed full DevOps pipeline  
-- Docker + Kubernetes deployment  
-- Helm-based environment management  
-- Terraform-based AWS infrastructure  
-- Integrated CI/CD pipelines  
+**[AI-BankApp-DevOps](https://github.com/Devel955/AI-BankApp-DevOps)**
+End-to-end DevOps implementation on a Spring Boot banking application — covering containerization, CI/CD, Kubernetes deployment via Helm, Terraform-provisioned AWS infra, monitoring, and GitOps.
+`Docker` `Kubernetes` `Helm` `Terraform` `CI/CD` `Monitoring`
 
-### 🔹 Flask App Deployment on AWS ECS
-- Dockerized application  
-- Deployed using AWS ECS  
-- Learned service scaling & networking  
+**[90DaysOfDevOps — Daily Practice Log](https://github.com/Devel955/90DaysOfDevOps)**
+807 commits of daily, hands-on DevOps practice spanning 2023–2026 — covering Linux, shell scripting, Git, Docker, AWS, CI/CD, Kubernetes, and Terraform. A consistent, documented record of building real DevOps skills one day at a time.
+`Shell` `Python` `Linux` `Docker` `AWS`
 
----
+**[Incident Management System](https://github.com/Devel955/zeotap-incident-management-system)**
+A JavaScript-based incident management system built independently to track and manage operational incidents.
+`JavaScript`
 
-## 🚀 Featured Projects
+**[Flask App on AWS ECS](https://github.com/Devel955/flask-app-ecs)**
+Containerized a Flask application with Docker and deployed it on AWS ECS, working through service scaling and networking.
+`Docker` `AWS ECS`
 
-### 🔹 AI-BankApp DevOps (Production-Ready System)
-👉 https://github.com/Devel955/AI-BankApp-DevOps  
+**[GitHub Actions + Kubernetes Masterclass](https://github.com/Devel955/github-actions-kubernetes-masterclass)**
+Deployed a 3-tier application using GitHub Actions pipelines integrated with Kubernetes.
+`GitHub Actions` `Kubernetes`
 
-- End-to-end CI/CD pipeline  
-- Kubernetes deployment with Helm  
-- Terraform-based AWS infrastructure  
-- Multi-service architecture  
-- Real-world debugging  
+<sub>Note: Some of the above started as structured DevOps training programs (TrainWithShubham) and were completed with independent, hands-on implementation.</sub>
 
 ---
 
-### 🔹 Flask App on AWS ECS
-👉 https://github.com/Devel955/flask-app-ecs  
+## GitHub Activity
 
-- Containerized Python application  
-- Deployed on AWS ECS  
-
----
-
-### 🔹 DevOps Practice & Git Workflows
-👉 https://github.com/Devel955/devops-practice  
-
-- Hands-on Git workflows  
-- DevOps command practice  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Devel955&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devel955&layout=compact&theme=default&hide_border=true" height="165"/>
+</div>
 
 ---
 
-## 🧩 Real Problems Solved
-
-- Fixed Kubernetes CrashLoopBackOff due to misconfiguration  
-- Resolved CI/CD pipeline failures due to secrets issues  
-- Debugged container networking issues in AWS ECS  
-- Managed Terraform infra updates without breaking resources  
-
----
-
-## 🤝 What I Can Do
-
-- Build and optimize CI/CD pipelines  
-- Deploy and manage Kubernetes applications  
-- Automate infrastructure using Terraform  
-- Debug cloud, containers, and deployment issues  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devel955&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devel955&theme=radical" />
-</p>
-
----
-
-## 📬 Connect with Me
-
-- 🔗 LinkedIn: https://linkedin.com/in/anand-sen-3703b8238  
-- 📧 Email: senanand164@gmail.com  
-
----
-
-## ⚡ Philosophy
-
-“I don’t just learn DevOps — I build, break, and fix real systems.”
-
----
-
-⭐ If you find my work interesting, feel free to connect!
+<div align="center">
+<sub>Open to DevOps / Cloud Infrastructure roles — let's connect.</sub>
+</div>
