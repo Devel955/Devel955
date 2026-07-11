@@ -1,131 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Anand%20Sen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20AWS%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Terraform%20%E2%80%A2%20CI%2FCD&descSize=16&descAlignY=62" width="100%"/>
+# Anand Sen
 
-<p>
-I design, automate, and deploy scalable cloud-native systems — with a focus on reliability, performance, and production readiness.
-</p>
+**DevOps Engineer** — AWS · Kubernetes · Terraform · CI/CD
 
-<p>
-  <a href="https://www.linkedin.com/in/anand-sen-3703b8238"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:senanand164@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Devel955"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+I design, automate, and deploy scalable cloud-native systems, with a focus on reliability, performance, and production readiness.
 
-<img src="https://komarev.com/ghpvc/?username=Devel955&style=flat-square&color=1e3c72&label=Profile+Views" alt="profile views"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-sen-3703b8238)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:senanand164@gmail.com)
 
 </div>
 
-<br/>
+&nbsp;
 
 ## About Me
 
-I'm a DevOps-focused engineer who believes in **learning by building real systems**. My work centers on designing end-to-end DevOps pipelines, automating infrastructure, and deploying cloud-native applications on AWS.
+I'm a DevOps-focused engineer who believes in learning by building real systems. My work centers on designing end-to-end DevOps pipelines, automating infrastructure, and deploying cloud-native applications on AWS.
 
-Currently deep in a self-driven **daily practice streak (#90DaysOfDevOps)** — 800+ commits and counting.
+Currently deep in a self-driven daily practice streak — **#90DaysOfDevOps**, 800+ commits and counting.
 
-<br/>
+&nbsp;
 
-## Impact So Far
+## What I've Done
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- Deployed 3+ production-style applications on AWS & Kubernetes
+- Built CI/CD pipelines that cut manual deployment effort
+- Containerized and orchestrated applications with Docker, Kubernetes & Helm
+- Automated AWS infrastructure provisioning with modular Terraform
+- Set up monitoring with Prometheus & Grafana
 
-**🚀 Deployment**
-Shipped 3+ production-style applications on AWS & Kubernetes
-
-**⚙️ CI/CD**
-Built automated pipelines that cut manual deployment effort
-
-</td>
-<td width="50%" valign="top">
-
-**🐳 Containers**
-Containerized and orchestrated apps with Docker, Kubernetes & Helm
-
-**🏗️ Infrastructure**
-Automated AWS provisioning with modular Terraform
-
-</td>
-</tr>
-</table>
-
-<br/>
+&nbsp;
 
 ## Tech Stack
 
-<div align="center">
+**Cloud & IaC:** AWS &nbsp;·&nbsp; Terraform &nbsp;·&nbsp; Linux
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+**Containers:** Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; Helm
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+**CI/CD:** GitHub Actions &nbsp;·&nbsp; Jenkins
 
-</div>
+**Monitoring:** Prometheus &nbsp;·&nbsp; Grafana
 
-<br/>
+&nbsp;
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[90DaysOfDevOps](https://github.com/Devel955/90DaysOfDevOps)**
+807 commits of daily hands-on practice (2023–2026) across Linux, Docker, AWS, CI/CD, Kubernetes and Terraform — a documented proof of consistency.
 
-### 📅 [90DaysOfDevOps](https://github.com/Devel955/90DaysOfDevOps)
-**807 commits** of daily hands-on practice (2023–2026) across Linux, Docker, AWS, CI/CD, Kubernetes & Terraform. A documented proof of consistency.
-`Shell` `Python`
+**[AI-BankApp-DevOps](https://github.com/Devel955/AI-BankApp-DevOps)**
+End-to-end DevOps on a Spring Boot banking app — Docker, Kubernetes, Helm, Terraform, monitoring, and GitOps.
 
-</td>
-<td width="50%" valign="top">
+**[Flask App on AWS ECS](https://github.com/Devel955/flask-app-ecs)**
+Dockerized Flask app deployed on AWS ECS, working through service scaling and networking.
 
-### 🏦 [AI-BankApp-DevOps](https://github.com/Devel955/AI-BankApp-DevOps)
-End-to-end DevOps on a Spring Boot banking app — Docker, K8s, Helm, Terraform, monitoring & GitOps.
-`Docker` `Kubernetes` `Terraform`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎫 [Incident Management System](https://github.com/Devel955/zeotap-incident-management-system)
-An independently built system to track and manage operational incidents.
-`JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ [Flask App on AWS ECS](https://github.com/Devel955/flask-app-ecs)
-Dockerized Flask app deployed on AWS ECS — hands-on with service scaling & networking.
-`Docker` `AWS ECS`
-
-</td>
-</tr>
-</table>
-
-<br/>
+&nbsp;
 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Devel955&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devel955&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Devel955&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devel955&theme=default&hide_border=true" width="48%"/>
 </div>
 
-<br/>
+&nbsp;
+
+---
 
 <div align="center">
-
-### Let's Connect
-
-📧 senanand164@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/anand-sen-3703b8238) &nbsp;|&nbsp; 💻 Open to DevOps / Cloud roles
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
-
+📧 senanand164@gmail.com &nbsp;|&nbsp; 🔗 <a href="https://www.linkedin.com/in/anand-sen-3703b8238">LinkedIn</a> &nbsp;|&nbsp; Open to DevOps / Cloud roles
 </div>
