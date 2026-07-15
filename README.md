@@ -14,7 +14,7 @@ I build scalable cloud infrastructure, automate deployments, and create reliable
   </a>
 
   <a href="mailto:senanand164@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-senhoney933%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-senanand164%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
   <a href="https://github.com/Devel955">
